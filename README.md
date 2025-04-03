@@ -8,21 +8,11 @@
 terraform-accelerator/
 ├── modules/
 │   ├── iam/
-│   │   ├── main.tf
-│   │   ├── variables.tf
-│   │   ├── outputs.tf
-│   │   ├── README.md
 │   ├── ecr/
-│   │   ├── main.tf
-│   │   ├── variables.tf
-│   │   ├── outputs.tf
-│   │   ├── README.md
 │   ├── vpc/
-│   │   ├── main.tf
-│   │   ├── variables.tf
-│   │   ├── outputs.tf
-│   │   ├── README.md
+│   └── ...
 ├── examples/  # TBD
+└── README.md
 ```
 
 ## Usage
